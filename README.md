@@ -36,7 +36,7 @@ To analyze transactional pizza sales data and deliver:
 - pizza_name – Name of pizza  
 - quantity – Number of pizzas ordered  
 - total_price – Revenue per order  
-- order_date, `order_time` – Date & time of order  
+- order_date, order_time – Date & time of order  
 - pizza_category – Classic, Supreme, Veggie, Chicken  
 - pizza_size – S, M, L, XL  
 
