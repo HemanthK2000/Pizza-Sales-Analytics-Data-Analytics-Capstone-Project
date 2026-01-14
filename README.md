@@ -31,14 +31,14 @@ To analyze transactional pizza sales data and deliver:
 **File:** [pizza_sales.csv](https://github.com/user-attachments/files/24592357/pizza_sales.csv)
 
 **Key Columns:**
-- `order_id` – Unique order identifier  
-- `pizza_id` – Unique pizza identifier  
-- `pizza_name` – Name of pizza  
-- `quantity` – Number of pizzas ordered  
-- `total_price` – Revenue per order  
-- `order_date`, `order_time` – Date & time of order  
-- `pizza_category` – Classic, Supreme, Veggie, Chicken  
-- `pizza_size` – S, M, L, XL  
+- order_id – Unique order identifier  
+- pizza_id – Unique pizza identifier  
+- pizza_name – Name of pizza  
+- quantity – Number of pizzas ordered  
+- total_price – Revenue per order  
+- order_date, `order_time` – Date & time of order  
+- pizza_category – Classic, Supreme, Veggie, Chicken  
+- pizza_size – S, M, L, XL  
 
 ---
 
