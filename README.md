@@ -7,11 +7,12 @@ This project focuses on extracting business insights, KPIs, trends, and visual d
 
 ## 📌 Project Objective
 To analyze transactional pizza sales data and deliver:
-- Key Performance Indicators (KPIs)
-- Time-based sales trends
-- Product performance analysis
-- Category and size contribution
-- Interactive dashboards for management
+- Overall revenue, total pizzas sold, and total number of orders.
+- Determine sales distribution by pizza category, size, and type.
+- Analyse time-based trends in sales (daily, monthly, and yearly).
+- Highlight best-selling and least-selling pizzas by revenue and quantity.
+- Understand customer purchasing behaviour through Average Order Value (AOV) and Average Pizza per Order.
+- Provide visualization dashboards for effective decision-making.
 
 ---
 
