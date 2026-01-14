@@ -32,14 +32,14 @@ To analyze transactional pizza sales data and deliver:
 **File:** [pizza_sales.csv](https://github.com/user-attachments/files/24592357/pizza_sales.csv)
 
 **Key Columns:**
-- order_id – Unique order identifier  
-- pizza_id – Unique pizza identifier  
-- pizza_name – Name of pizza  
-- quantity – Number of pizzas ordered  
-- total_price – Revenue per order  
-- order_date, order_time – Date & time of order  
+- order_id – Unique identifier for each order
+- pizza_id – Unique identifier for each pizza
+- pizza_name – Name of the pizza sold
+- quantity – Number of pizzas sold per order 
+- total_price – Total revenue for each transaction
+- order_date, order_time – Order timestamp for time-based analysis
 - pizza_category – Classic, Supreme, Veggie, Chicken  
-- pizza_size – S, M, L, XL  
+- pizza_size – S(Regular), M(Medium), L(Large), XL(X-Large), XXL(XX-Large)
 
 ---
 
