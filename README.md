@@ -113,3 +113,60 @@ Performed using Jupyter Notebook:
 - KPI Calculations
 - Visualizations (Bar Charts, Line Charts, Heatmaps)
 - **Libraries Used:**- pandas, numpy, matplotlib, seaborn
+
+---
+
+## 📁 Project Structure
+Pizza-Sales-Analytics/
+│
+├── Data/
+│   └── pizza_sales.csv
+│
+├── SQL/
+│   └── Pizza_Sales_Queries.sql
+│
+├── Python/
+│   └── Pizza_Sales_Analysis.ipynb
+│
+├── Excel/
+│   └── Pizza_Sales_Analysis.xlsx
+│
+├── Tableau/
+│   └── Pizza_Sales_Dashboard.twbx
+│
+├── PowerBI/
+│   └── Pizza_Sales_Report.pbix
+│
+├── Documents/
+│   ├── Business_Requirements_Document.pdf
+│   └── Project_Presentation.pdf
+│
+└── README.md
+
+---
+
+## Business Questions Answered
+•	What is the total revenue generated?
+•	How many pizzas were sold in total?
+•	Which category and size of pizzas perform best?
+•	Which pizzas are the top and bottom performers?
+•	What is the average order value and average pizzas per order?
+•	What are the sales trends by day, month, and time of day?
+
+---
+
+## Conclusion & Recommendations
+The analysis provides a comprehensive view of pizza sales performance. Management can leverage these insights to:
+•	Focus marketing on high-performing categories.
+•	Optimize the menu by reconsidering least-selling pizzas.
+•	Plan inventory and staffing based on sales peaks.
+•	Monitor KPIs regularly through dashboards for continuous improvement.
+
+---
+
+## 👤 Author
+
+**Hemanth K**
+Data Analytics Capstone Project
+Tools: Excel | SQL | Python | Tableau | Power BI
+Portfolio Ready | Resume Project | Interview Showcase
