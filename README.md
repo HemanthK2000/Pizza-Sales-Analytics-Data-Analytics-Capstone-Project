@@ -44,11 +44,11 @@ To analyze transactional pizza sales data and deliver:
 ---
 
 ## 📊 Key Performance Indicators (KPIs)
-- **Total Revenue**
-- **Total Orders**
-- **Total Pizzas Sold**
-- **Average Order Value (AOV)**
-- **Average Pizzas per Order**
+- **Total Revenue** = Sum of total_price
+- **Total Orders** = Sum of quantity
+- **Total Pizzas Sold** = Count of unique order_id
+- **Average Order Value (AOV)** = Total Revenue ÷ Total Orders
+- **Average Pizzas per Order** = Total Pizzas Sold ÷ Total Orders
 
 ---
 
