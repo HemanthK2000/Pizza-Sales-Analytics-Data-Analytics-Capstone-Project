@@ -54,11 +54,11 @@ To analyze transactional pizza sales data and deliver:
 
 ## Analysis & Visualizations
 **Ingredient Analysis**
-The pizza business aims to understand which ingredients are most frequently used across different pizza types. By identifying the most common ingredients, the store can
+- The pizza business aims to understand which ingredients are most frequently used across different pizza types.
 
 **Daily Trend**
 A line/bar chart showing sales by day of the week.
-•	Useful for staffing and operations planning.
+- Useful for staffing and operations planning.
 
 **Hourly Trend**
 A line/bar chart showing sales by hour of the day.
