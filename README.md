@@ -141,7 +141,7 @@ The analysis provides a comprehensive view of pizza sales performance. Managemen
 
 **Hemanth K**
 
-|Data Analytics Capstone Project|
+Data Analytics Capstone Project
 
 Tools: |Excel| |SQL| |Python| |Tableau| |Power BI|
 
