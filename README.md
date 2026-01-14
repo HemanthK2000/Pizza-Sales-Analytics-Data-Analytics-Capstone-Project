@@ -93,6 +93,10 @@ To analyze transactional pizza sales data and deliver:
 
 ---
 
+## 🗃️ SQL Queries
+
+![Image](https://github.com/user-attachments/assets/657c00e5-897a-427f-8624-845f40226761)
+
 ## 📊 Dashboards
 
 **🧩 Tableau Dashboard**
