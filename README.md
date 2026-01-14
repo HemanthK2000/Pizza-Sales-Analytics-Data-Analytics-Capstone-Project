@@ -52,5 +52,4 @@ To analyze transactional pizza sales data and deliver:
 
 ---
 
--- Total Orders
-SELECT COUNT(DISTINCT order_id) AS Total_Orders FROM pizza_sales;
+
