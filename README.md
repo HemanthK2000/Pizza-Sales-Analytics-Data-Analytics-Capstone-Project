@@ -52,7 +52,7 @@ To analyze transactional pizza sales data and deliver:
 
 ---
 
-## Analysis & Visualizations
+## 📉 Analysis & Visualizations
 **Ingredient Analysis**
 - The pizza business aims to understand which ingredients are most frequently used across different pizza types.
 
@@ -107,12 +107,15 @@ To analyze transactional pizza sales data and deliver:
 - Trend Analysis
 - Executive Summary View
 
+**🧪 Excel Analysis**
+- KPI Cards
+
 **🧪 Python Analysis**
 Performed using Jupyter Notebook:
 - Data Cleaning & Preprocessing\
 - Exploratory Data Analysis (EDA)
 - KPI Calculations
-- Visualizations (Bar Charts, Line Charts, Heatmaps)
+- Visualizations (Bar Charts, Line Charts etc)
 - **Libraries Used:**- pandas, numpy, matplotlib, seaborn
 
 ---
