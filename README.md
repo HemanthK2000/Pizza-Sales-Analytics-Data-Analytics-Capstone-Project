@@ -28,7 +28,7 @@ To analyze transactional pizza sales data and deliver:
 ---
 
 ## 📂 Dataset
-**File:** `[pizza_sales.csv](https://github.com/user-attachments/files/24592357/pizza_sales.csv)`
+**File:** [pizza_sales.csv](https://github.com/user-attachments/files/24592357/pizza_sales.csv)
 
 **Key Columns:**
 - `order_id` – Unique order identifier  
