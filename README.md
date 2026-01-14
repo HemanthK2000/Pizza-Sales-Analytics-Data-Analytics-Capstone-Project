@@ -112,8 +112,8 @@ Performed using Jupyter Notebook:
 - Exploratory Data Analysis (EDA)
 - KPI Calculations
 - Visualizations (Bar Charts, Line Charts, Heatmaps)
-Libraries Used:
-- pandas
-- numpy
-- matplotlib
-- seaborn
+**Libraries Used:**
+       - pandas
+       - numpy
+       - matplotlib
+       - seaborn
