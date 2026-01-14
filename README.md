@@ -57,15 +57,15 @@ To analyze transactional pizza sales data and deliver:
 - The pizza business aims to understand which ingredients are most frequently used across different pizza types.
 
 **Daily Trend**
-A line/bar chart showing sales by day of the week.
+- A line/bar chart showing sales by day of the week.
 - Useful for staffing and operations planning.
 
 **Hourly Trend**
-A line/bar chart showing sales by hour of the day.
-Useful for staffing, ingredients, customer rush and operations planning
+- A line/bar chart showing sales by hour of the day.
+- Useful for staffing, ingredients, customer rush and operations planning
 
 **Monthly Trend**
-A line chart depicting monthly revenue and orders.
+- A line chart depicting monthly revenue and orders.
 •	Helps track seasonality and identify peak sales months.
 •	Summer months show higher sales due to promotional campaigns.
 
