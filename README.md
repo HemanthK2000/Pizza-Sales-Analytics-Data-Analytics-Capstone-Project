@@ -91,4 +91,29 @@ To analyze transactional pizza sales data and deliver:
 - A horizontal bar chart of pizzas with the lowest sales.
 - Identifies products for improvement or possible removal from the menu.
 
+---
 
+## 📊 Dashboards
+**Tableau Dashboard**
+- KPI Cards
+- Daily & Monthly Trends
+- Category & Size Contribution
+- Top / Bottom Performing Pizzas
+
+**Power BI Dashboard**
+- Interactive slicers (Month, Quarter, Category, Size)
+- Sales Heatmaps
+- Trend Analysis
+- Executive Summary View
+
+**🧪 Python Analysis**
+Performed using Jupyter Notebook:
+- Data Cleaning & Preprocessing\
+- Exploratory Data Analysis (EDA)
+- KPI Calculations
+- Visualizations (Bar Charts, Line Charts, Heatmaps)
+Libraries Used:
+- pandas
+- numpy
+- matplotlib
+- seaborn
