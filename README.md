@@ -153,9 +153,9 @@ The analysis provides a comprehensive view of pizza sales performance. Managemen
 ## 👤 Author
 
 ### **Hemanth K**  
-  Data Analytics Capstone Project
-  Tools: |Excel| |SQL| |Python| |Tableau| |Power BI|
-  |Portfolio Ready | Resume Project | Interview Showcase|
-  Aspiring Data Analyst  
-  📫 LinkedIn: *(https://www.linkedin.com/in/hemanth-k-7469a9196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*  
-  📂 Portfolio: *(https://github.com/HemanthK2000)* 
+Data Analytics Capstone Project
+<br> Tools: |Excel| |SQL| |Python| |Tableau| |Power BI|
+<br> |Portfolio Ready | Resume Project | Interview Showcase|
+<br> Aspiring Data Analyst  
+📫 LinkedIn: *(https://www.linkedin.com/in/hemanth-k-7469a9196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*  
+📂 Portfolio: *(https://github.com/HemanthK2000)* 
