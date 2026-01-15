@@ -105,17 +105,21 @@ To analyze transactional pizza sales data and deliver:
 
 ## 📊 Dashboards
 
-**🧩 Tableau Dashboard**
-- KPI Cards
-- Daily & Monthly Trends
-- Category & Size Contribution
-- Top / Bottom Performing Pizzas
-
 **📈 Power BI Dashboard**
 - Interactive slicers (Month, Quarter, Category, Size)
 - Sales Heatmaps
 - Trend Analysis
 - Executive Summary View
+
+![Image](https://github.com/user-attachments/assets/c82ba249-1ec4-49ac-9f5d-e93d76ef4d58)
+
+![Image](https://github.com/user-attachments/assets/86065082-931a-4af5-adb5-7d58326425ab)
+
+**🧩 Tableau Dashboard**
+- KPI Cards
+- Daily & Monthly Trends
+- Category & Size Contribution
+- Top / Bottom Performing Pizzas
 
 **🧪 Excel Analysis**
 - KPI Cards
