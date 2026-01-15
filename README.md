@@ -96,6 +96,13 @@ To analyze transactional pizza sales data and deliver:
 ## 🗃️ SQL Queries
 
 ![Image](https://github.com/user-attachments/assets/657c00e5-897a-427f-8624-845f40226761)
+![Image](https://github.com/user-attachments/assets/b86ef3d2-c9c8-4ddf-9f78-f9c2ccfb1ef5)
+![Image](https://github.com/user-attachments/assets/32b255d3-ac7c-4f1f-a30d-d11c72835ed7)
+![Image](https://github.com/user-attachments/assets/b739dca1-4dc0-4a7d-a51e-a149afe2a16e)
+![Image](https://github.com/user-attachments/assets/5c657971-4325-4e07-80d7-11d0ecee0795)
+![Image](https://github.com/user-attachments/assets/92b55a9c-ea85-47db-9b51-98bb21b61c86)
+![Image](https://github.com/user-attachments/assets/9055b8ba-b1dd-49f0-801e-5c94ad8cd130)
+
 
 ## 📊 Dashboards
 
