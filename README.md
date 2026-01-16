@@ -41,6 +41,8 @@ To analyze transactional pizza sales data and deliver:
 - pizza_category – Classic, Supreme, Veggie, Chicken  
 - pizza_size – S(Regular), M(Medium), L(Large), XL(X-Large), XXL(XX-Large)
 
+![Image](https://github.com/user-attachments/assets/76f110de-e30d-4925-823d-1ab5bfcbe6fa)
+
 ---
 
 ## 📊 Key Performance Indicators (KPIs)
