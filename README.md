@@ -114,13 +114,13 @@ To analyze transactional pizza sales data and deliver:
 - Trend Analysis
 - Executive Summary View
 
-### 📊🎥 Interactive Dashboard Videos :- 
+** 📊🎥 Interactive Dashboard Videos :- **
 
 https://github.com/user-attachments/assets/bfabbf44-7aa3-45a5-adc5-86627e4dc04f
 
 https://github.com/user-attachments/assets/84fed81c-6cdf-4fac-9d06-15ccf27be73c
 
-### 📈 Dashboard Images :-
+** 📈 Dashboard Images :- **
 
 ![Image](https://github.com/user-attachments/assets/c82ba249-1ec4-49ac-9f5d-e93d76ef4d58)
 
