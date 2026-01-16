@@ -40,6 +40,7 @@ To analyze transactional pizza sales data and deliver:
 - order_date, order_time – Order timestamp for time-based analysis
 - pizza_category – Classic, Supreme, Veggie, Chicken  
 - pizza_size – S(Regular), M(Medium), L(Large), XL(X-Large), XXL(XX-Large)
+- pizza_ingredients - Ingredients used in preparing the pizza
 
 ![Image](https://github.com/user-attachments/assets/76f110de-e30d-4925-823d-1ab5bfcbe6fa)
 
