@@ -146,6 +146,18 @@ https://github.com/user-attachments/assets/84fed81c-6cdf-4fac-9d06-15ccf27be73c
 - Bottom 5 Pizzas by Revenue, Quantity, Total Orders 
 ![Image](https://github.com/user-attachments/assets/1122550a-7d88-42da-80a7-114352d5c3e8)
 
+**Key Insights:-**
+- Orders are highest on weekends, Friday/Saturday evenings.
+- There are maximum orders from month of July and January.
+- Classic Category contributes to maximum sales & total orders.
+- Large size pizza contributes to maximum sales.
+- The Thai Chicken pizza contributes to maximum revenue.
+- The Classic Deluxe pizza contribute to maximum total quantities.
+- The Classic Deluxe pizza contributes to maximum total orders.
+- The Brie Carre pizza contributes to minimum revenue.
+- The Brie Carre pizza contribute to minimum total quantities.
+- The Brie Carre pizza contributes to minimum total orders.
+
 **🧩 Tableau Dashboard**
 - KPI Cards
 - Daily & Monthly Trends
