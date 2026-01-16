@@ -113,7 +113,11 @@ To analyze transactional pizza sales data and deliver:
 
 ![Image](https://github.com/user-attachments/assets/c82ba249-1ec4-49ac-9f5d-e93d76ef4d58)
 
-![Image](https://github.com/user-attachments/assets/86065082-931a-4af5-adb5-7d58326425ab)
+https://github.com/user-attachments/assets/bfabbf44-7aa3-45a5-adc5-86627e4dc04f
+
+![Image](https://github.com/user-attachments/assets/0a07d8d8-1a63-4e86-a3c6-b58d38e2469e)
+
+https://github.com/user-attachments/assets/84fed81c-6cdf-4fac-9d06-15ccf27be73c
 
 **🧩 Tableau Dashboard**
 - KPI Cards
