@@ -110,7 +110,7 @@ To analyze transactional pizza sales data and deliver:
 
 ## **📈 Power BI Dashboard** 
 
-**📊🎥 Interactive Dashboard Videos :-**
+**📊🎥 Interactive Dashboard Videos :-** Interactive Slicers (Date,Pizza Category)
 
 https://github.com/user-attachments/assets/bfabbf44-7aa3-45a5-adc5-86627e4dc04f
 
@@ -121,8 +121,6 @@ https://github.com/user-attachments/assets/84fed81c-6cdf-4fac-9d06-15ccf27be73c
 ![Image](https://github.com/user-attachments/assets/c82ba249-1ec4-49ac-9f5d-e93d76ef4d58)
 
 ![Image](https://github.com/user-attachments/assets/0a07d8d8-1a63-4e86-a3c6-b58d38e2469e)
-
-- Interactive slicers (Date,Pizza Category)
 
 - KPI's (Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, Average Pizzas Per Order)
 ![Image](https://github.com/user-attachments/assets/b102ca0c-db4a-437c-ab8c-631c6bf12c9f)
