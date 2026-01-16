@@ -108,7 +108,7 @@ To analyze transactional pizza sales data and deliver:
 
 ## 📊 Dashboards
 
-### **📈 Power BI Dashboard** 
+## **📈 Power BI Dashboard** 
 - Interactive slicers (Month, Quarter, Category, Size)
 - Sales Heatmaps
 - Trend Analysis
