@@ -109,10 +109,6 @@ To analyze transactional pizza sales data and deliver:
 ## 📊 Dashboards
 
 ## **📈 Power BI Dashboard** 
-- Interactive slicers (Month, Quarter, Category, Size)
-- Sales Heatmaps
-- Trend Analysis
-- Executive Summary View
 
 **📊🎥 Interactive Dashboard Videos :-**
 
@@ -126,6 +122,31 @@ https://github.com/user-attachments/assets/84fed81c-6cdf-4fac-9d06-15ccf27be73c
 
 ![Image](https://github.com/user-attachments/assets/0a07d8d8-1a63-4e86-a3c6-b58d38e2469e)
 
+- Interactive slicers (Date,Pizza Category)
+
+- KPI's (Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, Average Pizzas Per Order)
+![Image](https://github.com/user-attachments/assets/b102ca0c-db4a-437c-ab8c-631c6bf12c9f)
+
+- Daily Trend for Total Orders
+![Image](https://github.com/user-attachments/assets/f4996dbf-850c-492a-aff9-48eb0ca730ee)
+
+- Montly Trend for Total Orders
+![Image](https://github.com/user-attachments/assets/febbba37-2b15-4d60-8ed0-b2118729ec11)
+
+- Percentage of Sales by Pizza Category
+![Image](https://github.com/user-attachments/assets/aa283c2f-481e-439a-b7cb-0e0b7556263c)
+
+- Percentage of Sales by Pizza Size
+![Image](https://github.com/user-attachments/assets/8fcd4493-511d-4df8-b5ac-4b3b9b5f6285)
+
+- Total Pizzas Sold by Pizza Category
+![Image](https://github.com/user-attachments/assets/ad1f3e82-f0ef-45ea-8886-3183f512665a)
+
+- Top 5 Pizzas by Revenue, Quantity, Total Orders
+![Image](https://github.com/user-attachments/assets/2b3bf486-4219-49ab-80d3-e25bef3a0600)
+
+- Bottom 5 Pizzas by Revenue, Quantity, Total Orders 
+![Image](https://github.com/user-attachments/assets/1122550a-7d88-42da-80a7-114352d5c3e8)
 
 **🧩 Tableau Dashboard**
 - KPI Cards
