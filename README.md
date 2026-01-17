@@ -171,7 +171,7 @@ Performed using Jupyter Notebook:
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
 - KPI Calculations
-- Visualizations (Bar Charts, Line Charts etc)
+- Visualizations (Bar Charts, Line Charts, Pie Chart etc)
 - **Libraries Used:**- pandas, numpy, matplotlib, seaborn
 
 ![Image](https://github.com/user-attachments/assets/688e33e2-0208-445e-873e-2ced785474d5)
