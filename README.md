@@ -174,6 +174,18 @@ Performed using Jupyter Notebook:
 - Visualizations (Bar Charts, Line Charts etc)
 - **Libraries Used:**- pandas, numpy, matplotlib, seaborn
 
+![Image](https://github.com/user-attachments/assets/688e33e2-0208-445e-873e-2ced785474d5)
+![Image](https://github.com/user-attachments/assets/8479e472-1f7e-41c2-b63f-6533754f4613)
+![Image](https://github.com/user-attachments/assets/e4acaf1b-a052-4892-8293-c5b599819677)
+![Image](https://github.com/user-attachments/assets/0bb65217-6955-42a0-9226-9b8f08b491b2)
+![Image](https://github.com/user-attachments/assets/3c315416-efdb-4c13-99f2-bac26b5465d8)
+![Image](https://github.com/user-attachments/assets/3ad74e90-f450-490f-9093-c3265ccd6879)
+![Image](https://github.com/user-attachments/assets/3998e14b-7633-461c-bb97-ce4ab282c443)
+![Image](https://github.com/user-attachments/assets/37c18c20-f57a-4005-ae75-d16eccd8be49)
+![Image](https://github.com/user-attachments/assets/8020a89a-05cc-493d-84dc-26f9aea00458)
+![Image](https://github.com/user-attachments/assets/ebe8c901-563b-485b-80bd-40c6235db739)
+![Image](https://github.com/user-attachments/assets/3c329697-8487-4149-acd1-2e8c6da14d6a)
+
 ---
 
 ## 🔍 Business Questions Answered
