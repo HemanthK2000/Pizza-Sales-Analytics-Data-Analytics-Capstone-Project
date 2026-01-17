@@ -97,14 +97,13 @@ To analyze transactional pizza sales data and deliver:
 ---
 
 ## 🗃️ SQL Queries
-![Image](https://github.com/user-attachments/assets/b2a50fd8-9443-4916-a199-a63a57986d95)
-![Image](https://github.com/user-attachments/assets/784e2a6b-ed95-4083-a78d-2cab8307fb32)
-![Image](https://github.com/user-attachments/assets/0c079d0f-2984-4327-a758-4ca4482617c4)
-![Image](https://github.com/user-attachments/assets/0fbaf0de-9da7-488a-8420-adff0f70c2d1)
-![Image](https://github.com/user-attachments/assets/d467b4df-c0df-418a-af7e-4c115c680971)
-![Image](https://github.com/user-attachments/assets/397156b1-a1cf-4d65-a47e-76fd43097e83)
-![Image](https://github.com/user-attachments/assets/65082db2-1455-4590-b82d-63a600f3f408)
-
+![Image](https://github.com/user-attachments/assets/0d4dd075-9a48-472c-9e95-adda7a54ec0c)
+![Image](https://github.com/user-attachments/assets/0ff52574-6af7-4579-b569-a85eab628152)
+![Image](https://github.com/user-attachments/assets/d056fab4-a90a-4fef-b1c8-c497ff1de020)
+![Image](https://github.com/user-attachments/assets/d3985b3a-2b31-4a19-a796-8010a4d3a9c0)
+![Image](https://github.com/user-attachments/assets/8d0b61ed-2b78-4ee9-88d9-dd373485788c)
+![Image](https://github.com/user-attachments/assets/fb63bacd-e702-4347-8697-b836ac510635)
+![Image](https://github.com/user-attachments/assets/0369cfc5-7b19-4b24-88b9-26a9156f6262)
 
 ## 📊 Dashboards
 
