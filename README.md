@@ -175,6 +175,27 @@ Performed using Jupyter Notebook:
 - Visualizations (Bar Charts, Line Charts, Pie Chart etc)
 - **Libraries Used:**- pandas, numpy, matplotlib, seaborn
 
+**Charts:-**
+- Ingredient Analysis
+- Daily Trend - Total Orders
+- Daily Trend - Total Revenue
+- Daily Trend - Total Quantity
+- Hourly Trend - Total Orders
+- Hourly Trend - Total Revenue
+- Hourly Trend - Total Quantity
+- Montly Trend - Total Orders
+- Montly Trend - Total Revenue
+- Montly Trend - Total Quantity
+- Percentage of Sales by Category
+- Percentage of Sale by Pizza Size & Category
+- Total Pizzas Sold by Pizza Category
+- Top 5 Best-Selling Pizzas - Total Orders
+- Top 5 Best-Selling Pizzas - Total Revenue
+- Top 5 Best-Selling Pizzas - Total Quantity
+- Bottom 5 Least-Selling Pizzas - Total Orders
+- Bottom 5 Least-Selling Pizzas - Total Revenue
+- Bottom 5 Least-Selling Pizzas - Total Quantity
+
 ![Image](https://github.com/user-attachments/assets/688e33e2-0208-445e-873e-2ced785474d5)
 ![Image](https://github.com/user-attachments/assets/8479e472-1f7e-41c2-b63f-6533754f4613)
 ![Image](https://github.com/user-attachments/assets/e4acaf1b-a052-4892-8293-c5b599819677)
