@@ -164,12 +164,12 @@ https://github.com/user-attachments/assets/84fed81c-6cdf-4fac-9d06-15ccf27be73c
 - Category & Size Contribution
 - Top / Bottom Performing Pizzas
 
-**🧪 Excel Analysis**
+## **🧪 Excel Analysis**
 - KPI Cards
 
-**🧪 Python Analysis**
+## **🧪 Python Analysis**
 Performed using Jupyter Notebook:
-- Data Cleaning & Preprocessing\
+- Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
 - KPI Calculations
 - Visualizations (Bar Charts, Line Charts etc)
