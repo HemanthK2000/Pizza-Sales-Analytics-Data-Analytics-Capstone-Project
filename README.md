@@ -165,6 +165,17 @@ https://github.com/user-attachments/assets/84fed81c-6cdf-4fac-9d06-15ccf27be73c
 - Top / Bottom Performing Pizzas
 
 ## **🧪 Excel Analysis**
+
+**📊🎥 Interactive Dashboard Videos :-** Interactive Slicers (Month)
+
+https://github.com/user-attachments/assets/b0b533b4-dfdb-40b0-97ea-11ebb546b101
+
+**📈 Dashboard Images :-**
+
+![Image](https://github.com/user-attachments/assets/b9df0127-2ce7-4b43-b674-ddb01058ebc4)
+
+
+
 - KPI Cards
 
 ## **🧪 Python Analysis**
