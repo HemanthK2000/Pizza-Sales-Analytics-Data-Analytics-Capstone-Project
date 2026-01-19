@@ -106,7 +106,11 @@ To analyze transactional pizza sales data and deliver:
 ![Image](https://github.com/user-attachments/assets/aa92b9a3-cf5a-4bb4-b815-7b9ee5a20217)
 ![Image](https://github.com/user-attachments/assets/25a31f05-617c-4fa4-b308-9c0af649895b)
 
+---
+
 ## 📊 Dashboards
+
+---
 
 ## **📈 Power BI Dashboard** 
 
@@ -116,6 +120,7 @@ https://github.com/user-attachments/assets/bfabbf44-7aa3-45a5-adc5-86627e4dc04f
 
 https://github.com/user-attachments/assets/84fed81c-6cdf-4fac-9d06-15ccf27be73c
 
+**🧮 Analysis of Data & Visual Charts :-**
 
 - KPI's (Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, Average Pizzas Per Order)
 ![Image](https://github.com/user-attachments/assets/b102ca0c-db4a-437c-ab8c-631c6bf12c9f)
@@ -159,6 +164,8 @@ https://github.com/user-attachments/assets/84fed81c-6cdf-4fac-9d06-15ccf27be73c
 - The Brie Carre pizza contribute to minimum total quantities.
 - The Brie Carre pizza contributes to minimum total orders.
 
+---
+
 ## **🧩 Tableau Dashboard**
 
 **📊🎥 Interactive Dashboard Videos :-** Interactive Slicers (Date,Pizza Category)
@@ -167,10 +174,39 @@ https://github.com/user-attachments/assets/19757723-26b8-4cdc-a523-2c69571ac519
 
 https://github.com/user-attachments/assets/3973d42f-acb1-42fe-ae55-d9b1aba56459
 
-- KPI Cards
-- Daily & Monthly Trends
-- Category & Size Contribution
-- Top / Bottom Performing Pizzas
+**🧮 Analysis of Data & Visual Charts :-**
+
+- KPI's
+![Image](https://github.com/user-attachments/assets/130df538-f583-43d7-876c-c0a3fa1af1e2)
+
+- Hourly Trend for Total Pizzas Sold
+![Image](https://github.com/user-attachments/assets/e2f02819-9906-4cca-bae1-1ff048091fbc)
+
+- Weekly Trend for Total Pizzas Sold
+![Image](https://github.com/user-attachments/assets/3a9f0670-1839-4f3a-a04c-24b98a563b29)
+
+- Percentage of Sales by Pizza Category
+![Image](https://github.com/user-attachments/assets/d91fdccd-64bf-4c53-aa94-5674223614ef)
+
+- Percentage of Sales by Pizza Size
+![Image](https://github.com/user-attachments/assets/9363d9f4-d1a7-4774-92fd-cc3a15ab84de)
+
+- Total Orders and Pizzas Sold by Pizza Category
+![Image](https://github.com/user-attachments/assets/bc166028-1b8f-455e-9000-e2f768217285)
+
+- Top 5 Pizzas by Revenue, Total Pizzas Sold, and Total Orders
+![Image](https://github.com/user-attachments/assets/fa3bd764-da91-4b16-971c-11f2961d6762)
+
+- Bottom 5 Pizzas by Revenue, Total Pizzas Sold, and Total Orders
+![Image](https://github.com/user-attachments/assets/f58432f1-12a2-4a31-a26e-aec34aa5f939)
+
+**📈 Dashboard Images :-**
+
+<img width="1563" height="882" alt="Image" src="https://github.com/user-attachments/assets/bd3c8ba8-0844-4329-a4fc-7886649a2994" />
+
+<img width="1563" height="882" alt="Image" src="https://github.com/user-attachments/assets/cf6d209c-2ed2-4d55-a8eb-a7ba7fb1c081" />
+
+---
 
 ## **🧪 Excel Analysis**
 
@@ -241,6 +277,8 @@ https://github.com/user-attachments/assets/b0b533b4-dfdb-40b0-97ea-11ebb546b101
 - Large size pizza contribute to maximum sales.
 - Classic Deluxe & Chicken pizzas are the sellers and revenue generators.
 - The Brie Carre is at the bottom in both orders and revenue.
+
+---
 
 ## **🧪 Python Analysis**
 Performed using Jupyter Notebook:
