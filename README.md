@@ -170,10 +170,6 @@ https://github.com/user-attachments/assets/84fed81c-6cdf-4fac-9d06-15ccf27be73c
 
 https://github.com/user-attachments/assets/b0b533b4-dfdb-40b0-97ea-11ebb546b101
 
-**📈 Dashboard Images :-**
-
-![Image](https://github.com/user-attachments/assets/b9df0127-2ce7-4b43-b674-ddb01058ebc4)
-
 **🧮 Analysis of Data & Visual Charts**
 
 - KPI Cards
@@ -223,6 +219,10 @@ https://github.com/user-attachments/assets/b0b533b4-dfdb-40b0-97ea-11ebb546b101
 ![Image](https://github.com/user-attachments/assets/6cef75c0-f5c2-4b12-9159-c3d9c53c1755)
 
 ![Image](https://github.com/user-attachments/assets/c798119a-652a-4927-b96e-49c4ea24292d)
+
+**📈 Dashboard Images :-**
+
+![Image](https://github.com/user-attachments/assets/b9df0127-2ce7-4b43-b674-ddb01058ebc4)
 
 **Key Insights:-**
 - Orders are highest on weekends, Friday/Saturday evening.
