@@ -182,7 +182,7 @@ https://github.com/user-attachments/assets/84fed81c-6cdf-4fac-9d06-15ccf27be73c
 
 ---
 
-## **🧪 Excel Analysis**
+## **🧪 Excel Dashboard**
 
 **📊🎥 Interactive Dashboard Videos :-** Interactive Slicers (Month)
 
