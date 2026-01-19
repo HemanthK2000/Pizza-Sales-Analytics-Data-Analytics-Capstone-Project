@@ -224,6 +224,8 @@ https://github.com/user-attachments/assets/b0b533b4-dfdb-40b0-97ea-11ebb546b101
 
 ![Image](https://github.com/user-attachments/assets/b9df0127-2ce7-4b43-b674-ddb01058ebc4)
 
+![Image](https://github.com/user-attachments/assets/afba959e-518a-4e6c-b2a4-ad640c941c38)
+
 **Key Insights:-**
 - Orders are highest on weekends, Friday/Saturday evening.
 - There are maximum orders from 12-01pm & after 04-08pm.
