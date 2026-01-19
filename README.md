@@ -163,7 +163,9 @@ https://github.com/user-attachments/assets/84fed81c-6cdf-4fac-9d06-15ccf27be73c
 
 **📊🎥 Interactive Dashboard Videos :-** Interactive Slicers (Date,Pizza Category)
 
-https://github.com/user-attachments/assets/e7217040-3fff-4457-b928-78d58d5d2c7e
+https://github.com/user-attachments/assets/19757723-26b8-4cdc-a523-2c69571ac519
+
+https://github.com/user-attachments/assets/3973d42f-acb1-42fe-ae55-d9b1aba56459
 
 - KPI Cards
 - Daily & Monthly Trends
