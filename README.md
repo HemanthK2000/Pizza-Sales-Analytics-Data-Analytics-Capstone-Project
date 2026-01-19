@@ -160,6 +160,11 @@ https://github.com/user-attachments/assets/84fed81c-6cdf-4fac-9d06-15ccf27be73c
 - The Brie Carre pizza contributes to minimum total orders.
 
 ## **🧩 Tableau Dashboard**
+
+**📊🎥 Interactive Dashboard Videos :-** Interactive Slicers (Date,Pizza Category)
+
+https://github.com/user-attachments/assets/e7217040-3fff-4457-b928-78d58d5d2c7e
+
 - KPI Cards
 - Daily & Monthly Trends
 - Category & Size Contribution
