@@ -171,7 +171,7 @@ https://github.com/user-attachments/assets/84fed81c-6cdf-4fac-9d06-15ccf27be73c
 
 https://github.com/user-attachments/assets/b0b533b4-dfdb-40b0-97ea-11ebb546b101
 
-**🧮 Analysis of Data & Visual Charts**
+**🧮 Analysis of Data & Visual Charts :-**
 
 - KPI Cards
 
