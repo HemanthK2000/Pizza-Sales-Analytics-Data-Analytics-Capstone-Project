@@ -263,17 +263,17 @@ Performed using Jupyter Notebook:
 - Bottom 5 Least-Selling Pizzas - Total Revenue
 - Bottom 5 Least-Selling Pizzas - Total Quantity
 
-![Image](https://github.com/user-attachments/assets/688e33e2-0208-445e-873e-2ced785474d5)
-![Image](https://github.com/user-attachments/assets/8479e472-1f7e-41c2-b63f-6533754f4613)
-![Image](https://github.com/user-attachments/assets/e4acaf1b-a052-4892-8293-c5b599819677)
-![Image](https://github.com/user-attachments/assets/0bb65217-6955-42a0-9226-9b8f08b491b2)
-![Image](https://github.com/user-attachments/assets/3c315416-efdb-4c13-99f2-bac26b5465d8)
-![Image](https://github.com/user-attachments/assets/3ad74e90-f450-490f-9093-c3265ccd6879)
-![Image](https://github.com/user-attachments/assets/3998e14b-7633-461c-bb97-ce4ab282c443)
-![Image](https://github.com/user-attachments/assets/37c18c20-f57a-4005-ae75-d16eccd8be49)
-![Image](https://github.com/user-attachments/assets/8020a89a-05cc-493d-84dc-26f9aea00458)
-![Image](https://github.com/user-attachments/assets/ebe8c901-563b-485b-80bd-40c6235db739)
-![Image](https://github.com/user-attachments/assets/3c329697-8487-4149-acd1-2e8c6da14d6a)
+![Image](https://github.com/user-attachments/assets/d2697158-9531-4973-96db-2039970d4370)
+![Image](https://github.com/user-attachments/assets/d04f4caf-abf2-4207-aefe-065c0b963bd4)
+![Image](https://github.com/user-attachments/assets/e5fcf82a-5b17-4bf0-bac5-4a8061ae87e9)
+![Image](https://github.com/user-attachments/assets/355295a5-8e14-40a7-9c5f-e1a2ee217a00)
+![Image](https://github.com/user-attachments/assets/fa592bc8-1ae5-4341-a6bc-8430af2dca05)
+![Image](https://github.com/user-attachments/assets/e7a38e53-7f66-440e-9594-9b2a5b5fec8b)
+![Image](https://github.com/user-attachments/assets/76fd4cc2-4b34-4cda-910a-d56db3a01d5a)
+![Image](https://github.com/user-attachments/assets/aaf8c68b-8207-46a7-807f-6d3b81778ad7)
+![Image](https://github.com/user-attachments/assets/192500e9-651a-4252-85c9-eb36879b957a)
+![Image](https://github.com/user-attachments/assets/d9c2bf85-9e00-4f15-8e15-074019b13ab9)
+![Image](https://github.com/user-attachments/assets/b0a49d99-2881-4348-9b30-ac5ae63d2a51)
 
 ---
 
