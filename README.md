@@ -123,28 +123,44 @@ https://github.com/user-attachments/assets/84fed81c-6cdf-4fac-9d06-15ccf27be73c
 **🧮 Analysis of Data & Visual Charts :-**
 
 - KPI's (Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, Average Pizzas Per Order)
+
 ![Image](https://github.com/user-attachments/assets/b102ca0c-db4a-437c-ab8c-631c6bf12c9f)
 
+
 - Daily Trend for Total Orders
+
 ![Image](https://github.com/user-attachments/assets/f4996dbf-850c-492a-aff9-48eb0ca730ee)
 
+
 - Montly Trend for Total Orders
+
 ![Image](https://github.com/user-attachments/assets/febbba37-2b15-4d60-8ed0-b2118729ec11)
 
+
 - Percentage of Sales by Pizza Category
+
 ![Image](https://github.com/user-attachments/assets/aa283c2f-481e-439a-b7cb-0e0b7556263c)
 
+
 - Percentage of Sales by Pizza Size
+
 ![Image](https://github.com/user-attachments/assets/8fcd4493-511d-4df8-b5ac-4b3b9b5f6285)
 
+
 - Total Pizzas Sold by Pizza Category
+
 ![Image](https://github.com/user-attachments/assets/ad1f3e82-f0ef-45ea-8886-3183f512665a)
 
+
 - Top 5 Pizzas by Revenue, Quantity, Total Orders
+
 ![Image](https://github.com/user-attachments/assets/2b3bf486-4219-49ab-80d3-e25bef3a0600)
 
-- Bottom 5 Pizzas by Revenue, Quantity, Total Orders 
+
+- Bottom 5 Pizzas by Revenue, Quantity, Total Orders
+
 ![Image](https://github.com/user-attachments/assets/1122550a-7d88-42da-80a7-114352d5c3e8)
+
 
 **📈 Dashboard Images :-**
 
@@ -176,29 +192,45 @@ https://github.com/user-attachments/assets/3973d42f-acb1-42fe-ae55-d9b1aba56459
 
 **🧮 Analysis of Data & Visual Charts :-**
 
-- KPI's
+- KPI's (Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, Average Pizzas Per Order)
+
 ![Image](https://github.com/user-attachments/assets/130df538-f583-43d7-876c-c0a3fa1af1e2)
 
+
 - Hourly Trend for Total Pizzas Sold
+
 ![Image](https://github.com/user-attachments/assets/e2f02819-9906-4cca-bae1-1ff048091fbc)
 
+
 - Weekly Trend for Total Pizzas Sold
+
 ![Image](https://github.com/user-attachments/assets/3a9f0670-1839-4f3a-a04c-24b98a563b29)
 
+
 - Percentage of Sales by Pizza Category
+
 ![Image](https://github.com/user-attachments/assets/d91fdccd-64bf-4c53-aa94-5674223614ef)
 
+
 - Percentage of Sales by Pizza Size
+
 ![Image](https://github.com/user-attachments/assets/9363d9f4-d1a7-4774-92fd-cc3a15ab84de)
 
+
 - Total Orders and Pizzas Sold by Pizza Category
+
 ![Image](https://github.com/user-attachments/assets/bc166028-1b8f-455e-9000-e2f768217285)
 
+
 - Top 5 Pizzas by Revenue, Total Pizzas Sold, and Total Orders
+
 ![Image](https://github.com/user-attachments/assets/fa3bd764-da91-4b16-971c-11f2961d6762)
 
+
 - Bottom 5 Pizzas by Revenue, Total Pizzas Sold, and Total Orders
+
 ![Image](https://github.com/user-attachments/assets/f58432f1-12a2-4a31-a26e-aec34aa5f939)
+
 
 **📈 Dashboard Images :-**
 
@@ -222,11 +254,13 @@ https://github.com/user-attachments/assets/b0b533b4-dfdb-40b0-97ea-11ebb546b101
 
 ![Image](https://github.com/user-attachments/assets/6a29b316-0896-478f-8a12-d456b2a17b8d)
 
+
 - Daily Trend for Total Orders
 
 ![Image](https://github.com/user-attachments/assets/55d26b2f-c91f-4877-bac1-c7e41da30362)
 
 ![Image](https://github.com/user-attachments/assets/eaa73ccf-a360-4bb3-9c50-da958dd34aaa)
+
 
 - Hourly Trend for Total Orders
 
@@ -234,11 +268,13 @@ https://github.com/user-attachments/assets/b0b533b4-dfdb-40b0-97ea-11ebb546b101
 
 ![Image](https://github.com/user-attachments/assets/1a00fcae-1563-41a8-a2bc-f9b03865df11)
 
+
 - % of Sales by Pizza Category
 
 ![Image](https://github.com/user-attachments/assets/d12e1fbe-daed-4442-b640-cbd9b00d9725)
 
 ![Image](https://github.com/user-attachments/assets/94cd6732-246c-4c8c-a898-291e90d52867)
+
 
 - % of Sales by Pizza Size
 
@@ -246,11 +282,13 @@ https://github.com/user-attachments/assets/b0b533b4-dfdb-40b0-97ea-11ebb546b101
 
 ![Image](https://github.com/user-attachments/assets/741cf35a-719d-42df-8f6a-7f9c25be4696)
 
+
 - Total Pizzas Sold by Pizza Ctegory
 
 ![Image](https://github.com/user-attachments/assets/6d4f9998-da3b-4043-9a0b-1a68ce11e28c)
 
 ![Image](https://github.com/user-attachments/assets/5ad1575e-2b26-435c-8131-61d5c0b7b1c5)
+
 
 - Top 5 Best Sellers by Total Pizzas Sold
 
@@ -258,11 +296,13 @@ https://github.com/user-attachments/assets/b0b533b4-dfdb-40b0-97ea-11ebb546b101
 
 ![Image](https://github.com/user-attachments/assets/cc201176-42a1-43e3-978c-68c09a62273e)
 
+
 - Bottom 5 Worst Sellers by Total Pizzas Sold
 
 ![Image](https://github.com/user-attachments/assets/6cef75c0-f5c2-4b12-9159-c3d9c53c1755)
 
 ![Image](https://github.com/user-attachments/assets/c798119a-652a-4927-b96e-49c4ea24292d)
+
 
 **📈 Dashboard Images :-**
 
